@@ -119,23 +119,11 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
-    # tils = fetch_tils()
-    # tils_md = "\n\n".join(
-    #     [
-    #         "[{title}]({url}) - {created_at}".format(
-    #             title=til["title"],
-    #             url=til["url"],
-    #             created_at=til["created_utc"].split("T")[0],
-    #         )
-    #         for til in tils
-    #     ]
-    # )
-    # rewritten = replace_chunk(rewritten, "tils", tils_md)
 
-    # entries = fetch_blog_entries()[:5]
-    # entries_md = "\n\n".join(
-    #     ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
-    # )
-    # rewritten = replace_chunk(rewritten, "blog", entries_md)
+    entries = fetch_blog_entries()[:5]
+    entries_md = "\n\n".join(
+        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
+    )
+    rewritten = replace_chunk(rewritten, "blog", entries_md)
 
-    # readme.open("w").write(rewritten)
+    readme.open("w").write(rewritten)
