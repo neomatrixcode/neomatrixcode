@@ -108,16 +108,16 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["name"], reverse=True)
-    md = "\n\n".join(
-        [
-            "[{repo} {release}]({url}) - {publishedAt}".format(**release)
-            for release in releases[:8]
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    # releases = fetch_releases(TOKEN)
+    # releases.sort(key=lambda r: r["name"], reverse=True)
+    # md = "\n\n".join(
+    #     [
+    #         "[{repo} {release}]({url}) - {publishedAt}".format(**release)
+    #         for release in releases[:8]
+    #     ]
+    # )
+    # readme_contents = readme.open().read()
+    # rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
 
     entries = fetch_blog_entries()[:5]
