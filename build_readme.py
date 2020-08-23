@@ -28,7 +28,7 @@ def make_query(after_cursor=None, include_organization=False):
     return """
 query {
   repositoryOwner(login: "codeneomatrix"){
-    repositories(first: 100, isFork:false , privacy: PUBLIC){
+    repositories(first: 3, isFork:false , privacy: PUBLIC, orderBy:{field:STARGAZERS direction:DESC} ){
       pageInfo {
         hasNextPage
         endCursor
@@ -82,8 +82,11 @@ def fetch_releases(oauth_token):
                     {
                         "repo": repo["name"],
                         "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "url": repo["url"],
+                        "publishedAt": repo["releases"]["nodes"][0]["publishedAt"],
+                        "release": repo["releases"]["nodes"][0]["name"]
+                        .replace(repo["name"], "")
+                        .strip(),
+                        "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
         has_next_page = False
@@ -109,7 +112,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["name"], reverse=True)
     md = "\n\n".join(
         [
-            "[{repo}]({url}) - {description}".format(**release)
+            "[{repo} {release}]({url}) - {publishedAt}".format(**release)
             for release in releases[:8]
         ]
     )
