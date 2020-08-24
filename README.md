@@ -1,14 +1,7 @@
 ### Hi there 👋
 Read [medium](https://medium.com/@josueacevedo) or [follow @aneomatrix on Twitter](https://twitter.com/aneomatrix).
 
-<table><tr><td valign="top" width="33%">
-
-### Repositories
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="34%">
+<table><tr><td valign="top" width="34%">
 
 ### On my blog
 <!-- blog starts -->
