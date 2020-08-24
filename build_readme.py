@@ -94,12 +94,12 @@ def fetch_releases(oauth_token):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://medium.com/feed/@josueacevedo")["channel"]
+    entries = feedparser.parse("https://medium.com/feed/@josueacevedo")["entries"]
     return [
         {
-            "title": entry["item"]["title"],
-            "url": entry["item"]["link"].split("#")[0],
-            "published": entry["item"]["pubDate"],
+            "title": entry["title"],
+            "url": entry["link"],
+            "published": entry["updated"],
         }
         for entry in entries
     ]
