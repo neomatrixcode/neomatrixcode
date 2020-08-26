@@ -5,6 +5,8 @@ Read [medium](https://medium.com/@josueacevedo) or [follow @aneomatrix on Twitte
 
 ### On my blog
 <!-- blog starts -->
+[CORS](https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2) - 2020-08-25
+
 [Ensamblador X86 y C](https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2) - 2020-08-13
 
 [Gráficos en Ensamblador X86](https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2) - 2020-08-13
@@ -12,8 +14,6 @@ Read [medium](https://medium.com/@josueacevedo) or [follow @aneomatrix on Twitte
 [Saltos en Ensamblador X86](https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2) - 2020-08-13
 
 [División en Ensamblador X86](https://medium.com/nabucodonosor-editorial/divisi%C3%B3n-en-ensamblador-x86-c753f369cc02?source=rss-a0e293e04c4b------2) - 2020-08-13
-
-[Multiplicación en Ensamblador X86](https://medium.com/nabucodonosor-editorial/multiplicaci%C3%B3n-en-ensamblador-x86-ac5bbed9f4c9?source=rss-a0e293e04c4b------2) - 2020-08-13
 <!-- blog ends -->
 More on [@josueacevedo](https://medium.com/@josueacevedo)
 </td><td valign="top" width="33%">
