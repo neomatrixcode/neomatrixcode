@@ -21,7 +21,7 @@ More on [@josueacevedo](https://medium.com/@josueacevedo)
 
 ### Youtube
 <!-- youtube starts -->
-
+<!-- https://www.youtube.com/feeds/videos.xml?channel_id=UCv1jJ5-lNVvOz3aBqmuC8Rw -->
 <!-- youtube ends -->
 More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
 </td>
@@ -31,13 +31,13 @@ More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
 
 ### Podcast
 <!-- podcast starts -->
-
+<!--  https://anchor.fm/s/1acd0770/podcast/rss  -->
 <!-- podcast ends -->    
 </td><td valign="top" width="34%">
   
 ### Twitch
 <!-- twitch starts -->
-
+<!-- https://zapier.com/engine/rss/8438972/neomatr1x -->
 <!-- twitch ends -->    
   </td>
 </tr>
