@@ -1,9 +1,10 @@
 ### Hi there 👋
-Read [medium](https://medium.com/@josueacevedo) or [follow @aneomatrix on Twitter](https://twitter.com/aneomatrix).
+Follow  [ @aneomatrix on Twitter](https://twitter.com/aneomatrix).
 
-<table><tr><td valign="top" width="34%">
+<table>
+ <tr><td valign="top" width="34%">
 
-### On my blog
+### Medium
 <!-- blog starts -->
 [CORS](https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2) - 2020-08-25
 
@@ -19,11 +20,45 @@ More on [@josueacevedo](https://medium.com/@josueacevedo)
 </td><td valign="top" width="33%">
 
 ### Youtube
-<!-- tils starts -->
+<!-- youtube starts -->
 
-<!-- tils ends -->
+<!-- youtube ends -->
 More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
-</td></tr></table>
+</td>
+</tr>
+
+<tr><td valign="top" width="34%">
+
+### Podcast
+<!-- podcast starts -->
+
+<!-- podcast ends -->    
+</td><td valign="top" width="34%">
+  
+### Twitch
+<!-- twitch starts -->
+
+<!-- twitch ends -->    
+  </td>
+</tr>
+
+</table>
+
+
+<div align="center">
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeneomatrix&hide=html" alt="codeneomatrix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeneomatrix&show_icons=true" alt="codeneomatrix" /></p>
+
+</div>
+
+
+</br>
+</br>
+<p align="center">&nbsp;
+<a href="https://codepen.io/neomatrix-acevedo-maldonado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrix-acevedo-maldonado" height="30" width="30" /></a>
+<a href="https://www.behance.net/josuejosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="josuejosue" height="30" width="30" /></a>
+</p>
 
 <!--<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>--> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
