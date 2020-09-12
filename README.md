@@ -6,7 +6,7 @@
 ### Medium
 
 <!-- blog starts -->
-[Multi selector casero en React js.](https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2) - 2020-09-11
+[Multi selector casero en React js.](https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2) - 2020-09-12
 
 [CORS](https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2) - 2020-08-25
 
