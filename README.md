@@ -22,6 +22,13 @@ More on [@josueacevedo](https://medium.com/@josueacevedo)
 ### Youtube
 <!-- youtube starts -->
 <!-- https://www.youtube.com/feeds/videos.xml?channel_id=UCv1jJ5-lNVvOz3aBqmuC8Rw -->
+[Charlando sobre compiladores!!! parte 3](https://www.youtube.com/watch?v=YtoVyEWl1z4) - Hace 3 semanas
+
+[charlando sobre compiladores!!!](https://www.youtube.com/watch?v=xQukeQ4SEC4&t=3170s) - Hace 1 mes
+
+[Ensamblador X86 Parte 40 [FINAL] C y Ensamblador](https://www.youtube.com/watch?v=14mBJNaglrM) - Hace 2 meses
+
+[Ensamblador X86 Parte 39 Bootloader](https://www.youtube.com/watch?v=8FGoo1KXkgE&t=588s) - Hace 2 meses
 <!-- youtube ends -->
 More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
 </td>
@@ -32,6 +39,14 @@ More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
 ### Podcast
 <!-- podcast starts -->
 <!--  https://anchor.fm/s/1acd0770/podcast/rss  -->
+[Ensamblador X86 - Parte 40 (FINAL) C …](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-40-FINAL-C-y-Ensamblador-ee3g4d)    - July 6, 2020
+
+[Ensamblador X86 - Parte 39 Bootloader](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-39-Bootloader-ee3ft9) - July 3, 2020
+
+[Ensamblador X86 - Parte 38 Debug](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-38-Debug-ee3fiu) - July 2, 2020
+
+[Ensamblador X86 - Parte 37 Manipulación …](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-37-Manipulacin-de-la-pantalla-ee3fea)  - July 1, 2020
+
 <!-- podcast ends -->    
 More on [Neomatrix](https://anchor.fm/neomatrix)
 </td><td valign="top" width="34%">
