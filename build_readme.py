@@ -57,7 +57,7 @@ def fetch_blog_entries():
     return [
         {
             "title": entry["title"].replace(" ", "%20"),
-            "subtitle": re.search('<p>.*?</p>',entry['summary'], re.IGNORECASE).group(0).replace("<p>", "").replace("</p>", "")
+            "subtitle": re.search('<p>.*?</p>',entry['summary'], re.IGNORECASE).group(0).replace("<p>", "").replace("</p>", ""),
             "url": entry["link"],
             "published": entry["updated"].split("T")[0],
         }
