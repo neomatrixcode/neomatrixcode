@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
+        ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/medium-item?date={published}&title={title}&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador\" /></a>".format(**entry) for entry in entries]
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
