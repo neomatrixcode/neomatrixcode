@@ -6,15 +6,15 @@
 ### Medium
 
 <!-- blog starts -->
-[Multi selector casero en React js.](https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2) - 2020-09-12
+<a href="https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-09-12&title=Multi selector casero en React js.&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador" /></a>
 
-[CORS](https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2) - 2020-08-25
+<a href="https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-25&title=CORS&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador" /></a>
 
-[Ensamblador X86 y C](https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2) - 2020-08-13
+<a href="https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Ensamblador X86 y C&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador" /></a>
 
-[Gráficos en Ensamblador X86](https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2) - 2020-08-13
+<a href="https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Gráficos en Ensamblador X86&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador" /></a>
 
-[Saltos en Ensamblador X86](https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2) - 2020-08-13
+<a href="https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Saltos en Ensamblador X86&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador" /></a>
 <!-- blog ends -->
 More on [@josueacevedo](https://medium.com/@josueacevedo)
 </td><td valign="top" width="33%">
