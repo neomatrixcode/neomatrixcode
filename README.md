@@ -6,15 +6,15 @@
 ### Medium
 
 <!-- blog starts -->
-<a href="https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-09-12&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa diferente." /></a>
+<a href="https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-09-12&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa%20diferente." /></a>
 
-<a href="https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-25&title=CORS&subtitle=Y como sobrevivir a él …" /></a>
+<a href="https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-25&title=CORS&subtitle=Y%20como%20sobrevivir%20a%20él …" /></a>
 
-<a href="https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Ensamblador%20X86%20y%20C&subtitle=La interconexion de dos mundos, no tan ajenos entre si." /></a>
+<a href="https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Ensamblador%20X86%20y%20C&subtitle=La%20interconexion%20de%20dos%20mundos,%20no%20tan%20ajenos%20entre si." /></a>
 
-<a href="https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Gráficos%20en%20Ensamblador%20X86&subtitle=Estableciendo colores y formas en pantalla con Ensamblador." /></a>
+<a href="https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Gráficos%20en%20Ensamblador%20X86&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador." /></a>
 
-<a href="https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Saltos%20en%20Ensamblador%20X86&subtitle=Una alternativa a los if’s." /></a>
+<a href="https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Saltos%20en%20Ensamblador%20X86&subtitle=Una%20alternativa%20a%20los if’s." /></a>
 <!-- blog ends -->
 More on [@josueacevedo](https://medium.com/@josueacevedo)
 </td><td valign="top" width="33%">
