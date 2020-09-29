@@ -3,7 +3,7 @@
 <table>
  <tr><td valign="top" width="34%">
 
-### Medium
+### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
 <a href="https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-09-12&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa%20diferente." /></a>
@@ -16,10 +16,10 @@
 
 <a href="https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Saltos%20en%20Ensamblador%20X86&subtitle=Una%20alternativa%20a%20los if’s." /></a>
 <!-- blog ends -->
-More on [@josueacevedo](https://medium.com/@josueacevedo)
+
 </td><td valign="top" width="33%">
 
-### Youtube
+### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 <!-- youtube starts -->
 <!-- https://www.youtube.com/feeds/videos.xml?channel_id=UCv1jJ5-lNVvOz3aBqmuC8Rw -->
 [Charlando sobre compiladores!!! parte 3](https://www.youtube.com/watch?v=YtoVyEWl1z4) - Hace 3 semanas
@@ -30,13 +30,13 @@ More on [@josueacevedo](https://medium.com/@josueacevedo)
 
 [Ensamblador X86 Parte 39 Bootloader](https://www.youtube.com/watch?v=8FGoo1KXkgE&t=588s) - Hace 2 meses
 <!-- youtube ends -->
-More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
+
 </td>
 </tr>
 
 <tr><td valign="top" width="34%">
 
-### Podcast
+### [<i class="fab fa-spotify"></i>  Podcast](https://anchor.fm/neomatrix)
 <!-- podcast starts -->
 <!--  https://anchor.fm/s/1acd0770/podcast/rss  -->
 [Ensamblador X86 - Parte 40 (FINAL) C …](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-40-FINAL-C-y-Ensamblador-ee3g4d)    - July 6, 2020
@@ -48,14 +48,12 @@ More on [NEOMATRIXc0de](https://www.youtube.com/c/NEOMATRIXc0de)
 [Ensamblador X86 - Parte 37 Manipulación …](https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-37-Manipulacin-de-la-pantalla-ee3fea)  - July 1, 2020
 
 <!-- podcast ends -->    
-More on [Neomatrix](https://anchor.fm/neomatrix)
 </td><td valign="top" width="34%">
   
-### Twitch
+### [<i class="fab fa-twitch"></i>  Twitch](https://www.twitch.tv/neomatr1x_)
 <!-- twitch starts -->
 <!-- https://zapier.com/engine/rss/8438972/neomatr1x -->
 <!-- twitch ends -->    
-More on [Neomatr1x_](https://www.twitch.tv/neomatr1x_)
   </td>
 </tr>
 
