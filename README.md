@@ -72,10 +72,15 @@
 </br>
 <p align="center">&nbsp;
 <a href="https://codepen.io/neomatrix-acevedo-maldonado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrix-acevedo-maldonado" height="30" width="30" /></a>
+ &nbsp;
 <a href="https://www.behance.net/josuejosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="josuejosue" height="30" width="30" /></a>
+ &nbsp;
 <a href="https://linkedin.com/in/acevedo-maldonado-josue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acevedo-maldonado-josue" height="30" width="30" /></a>
+ &nbsp;
 <a href="https://stackoverflow.com/users/6484530/neomatrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6484530/neomatrix" height="30" width="30" /></a>
+ &nbsp;
  <a href="https://twitter.com/@aneomatrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@aneomatrix" height="30" width="30" /></a>
+ &nbsp;
 <a href="https://instagram.com/neomatrix.acevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neomatrix.acevedo" height="30" width="30" /></a>
 </p>
 
