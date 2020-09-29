@@ -52,52 +52,12 @@ query {
 }
 """
 
-
-def fetch_releases(oauth_token):
-    repos = []
-    releases = []
-    repo_names = set()
-    has_next_page = True
-    after_cursor = None
-
-    first = True
-
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor, include_organization=first),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
-        first = False
-        print()
-        print(json.dumps(data, indent=4))
-        print()
-        repo_nodes = data["data"]["repositoryOwner"]["repositories"]["nodes"]
-        if "organization" in data["data"]:
-            repo_nodes += data["data"]["organization"]["repositories"]["nodes"]
-        for repo in repo_nodes:
-            if repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "publishedAt": repo["releases"]["nodes"][0]["publishedAt"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "url": repo["releases"]["nodes"][0]["url"],
-                    }
-                )
-        has_next_page = False
-    return releases
-
-
 def fetch_blog_entries():
     entries = feedparser.parse("https://medium.com/feed/@josueacevedo")["entries"]
     return [
         {
-            "title": entry["title"],
+            "title": entry["title"].replace(" ", "%20"),
+            "subtitle": re.search('<p>.*?</p>',entry['summary'], re.IGNORECASE).group(0).replace("<p>", "").replace("</p>", "")
             "url": entry["link"],
             "published": entry["updated"].split("T")[0],
         }
@@ -108,22 +68,11 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-    # releases = fetch_releases(TOKEN)
-    # releases.sort(key=lambda r: r["name"], reverse=True)
-    # md = "\n\n".join(
-    #     [
-    #         "[{repo} {release}]({url}) - {publishedAt}".format(**release)
-    #         for release in releases[:8]
-    #     ]
-    # )
-    # readme_contents = readme.open().read()
-    #rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
 
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n\n".join(
-        ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/medium-item?date={published}&title={title}&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador\" /></a>".format(**entry) for entry in entries]
+        ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/medium-item?date={published}&title={title}&subtitle={subtitle}\" /></a>".format(**entry) for entry in entries]
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
