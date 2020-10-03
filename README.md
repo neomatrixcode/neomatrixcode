@@ -19,14 +19,7 @@
 
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
-<img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-10-12&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20…" />
-
-<img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-11-12&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20…" />
-<img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-12-12&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20…" />
-<img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-13-12&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20…" />
-
 <!-- youtube starts -->
-<!-- https://www.youtube.com/feeds/videos.xml?channel_id=UCv1jJ5-lNVvOz3aBqmuC8Rw -->
 
 <!-- youtube ends -->
 
@@ -53,15 +46,15 @@
 <!--  https://anchor.fm/s/1acd0770/podcast/rss  -->
 
 
-<!-- podcast ends -->    
+<!-- podcast ends -->
 </td><td valign="top" width="34%">
-  
+
 ### [<i class="fab fa-twitch"></i>  Twitch](https://www.twitch.tv/neomatr1x_)
 <!-- twitch starts -->
 
 <img align="left" src="https://github-readme-items.herokuapp.com/twitch-item?live=true&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20%E2%80%A6" />
 <!-- https://zapier.com/engine/rss/8438972/neomatr1x -->
-<!-- twitch ends -->    
+<!-- twitch ends -->
   </td>
 </tr>
 
