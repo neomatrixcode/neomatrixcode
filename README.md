@@ -36,22 +36,13 @@
 
 ### [<i class="fab fa-spotify"></i>  Podcast](https://anchor.fm/neomatrix)
 <!-- podcast starts -->
+<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-40-FINAL-C-y-Ensamblador-ee3g4d"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20y%20Ensamblador" /></a>
 
+<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-39-Bootloader-ee3ft9"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2039%20Bootloader" /></a>
 
+<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-38-Debug-ee3fiu"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2038%20Debug" /></a>
 
-<img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-06-12&title=Enzamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20…" />
-
-<img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-06-12&title=Enzamblador%20X86%20-%20Parte%2039%20Bootloader" />
-
-<img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-06-12&title=Enzamblador%20X86%20-%20Parte%2038%20Debug" />
-
-<img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-06-12&title=Enzamblador%20X86%20-%20Parte%2037%20Manipulación%20…" />
-
-
-
-<!--  https://anchor.fm/s/1acd0770/podcast/rss  -->
-
-
+<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-37-Manipulacin-de-la-pantalla-ee3fea"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2037%20Manipulación%20de%20la%20pantalla" /></a>
 <!-- podcast ends -->
 </td><td valign="top" width="34%">
 
