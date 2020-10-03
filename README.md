@@ -13,8 +13,6 @@
 <a href="https://medium.com/nabucodonosor-editorial/ensamblador-x86-y-c-7c276f620c34?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Ensamblador%20X86%20y%20C&subtitle=La%20interconexion%20de%20dos%20mundos,%20no%20tan%20ajenos%20entre si." /></a>
 
 <a href="https://medium.com/nabucodonosor-editorial/gr%C3%A1ficos-en-ensamblador-x86-8c276630111b?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Gráficos%20en%20Ensamblador%20X86&subtitle=Estableciendo%20colores%20y%20formas%20en%20pantalla%20con%20Ensamblador." /></a>
-
-<a href="https://medium.com/nabucodonosor-editorial/saltos-en-ensamblador-x86-a94474f58ad1?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2020-08-13&title=Saltos%20en%20Ensamblador%20X86&subtitle=Una%20alternativa%20a%20los if’s." /></a>
 <!-- blog ends -->
 
 </td><td valign="top" width="33%">
