@@ -24,34 +24,6 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-def make_query(after_cursor=None, include_organization=False):
-    return """
-query {
-  repositoryOwner(login: "codeneomatrix"){
-    repositories(first: 3, isFork:false , privacy: PUBLIC, orderBy:{field:STARGAZERS direction:DESC} ){
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes{
-        name
-        description
-        url
-        releases(last:1){
-          totalCount
-          nodes{
-            name
-            publishedAt
-            url
-          }
-        }
-
-      }
-    }
-  }
-}
-"""
-
 def fetch_blog_entries():
     entries = feedparser.parse("https://medium.com/feed/@josueacevedo")["entries"]
     return [
@@ -70,7 +42,7 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
 
 
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:4]
     entries_md = "\n\n".join(
         ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/medium-item?date={published}&title={title}&subtitle={subtitle}\" /></a>".format(**entry) for entry in entries]
     )
