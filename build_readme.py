@@ -36,11 +36,21 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+def fetch_videos_entries():
+    entries = feedparser.parse("https://www.youtube.com/feeds/videos.xml?channel_id=UCv1jJ5-lNVvOz3aBqmuC8Rw")["entries"]
+    return [
+        {
+            "title": entry["title"].replace(" ", "%20"),
+            "url": entry["link"],
+            "published": entry["updated"].split("T")[0],
+        }
+        for entry in entries
+    ]
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
     project_releases = root / "releases.md"
-
 
     entries = fetch_blog_entries()[:4]
     entries_md = "\n\n".join(
@@ -48,5 +58,14 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
+
+    readme.open("w").write(rewritten)
+
+    videos = fetch_videos_entries()[:4]
+    videos_md = "\n\n".join(
+        ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/youtube-item?date={published}&title={title}\" /></a>".format(**entry) for entry in videos]
+    )
+    readme_contents = readme.open().read()
+    rewritten = replace_chunk(readme_contents, "youtube", videos_md)
 
     readme.open("w").write(rewritten)
