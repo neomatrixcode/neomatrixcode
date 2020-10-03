@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Neomatrix
 
 <table>
- <tr><td valign="top" width="34%">
+ <tr><td valign="top" width="33%">
 
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
