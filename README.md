@@ -73,8 +73,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeneomatrix&show_icons=true" alt="codeneomatrix" />
 </p>
 
-</br>
-</br>
 <p align="center">&nbsp;
 <a href="https://codepen.io/neomatrix-acevedo-maldonado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrix-acevedo-maldonado" height="30" width="30" /></a>
  &nbsp;
@@ -89,7 +87,7 @@
 <a href="https://instagram.com/neomatrix.acevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neomatrix.acevedo" height="30" width="30" /></a>
 </p>
 
-<!--<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>--> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
+ <!--< a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>-->
 
 
 <!--
