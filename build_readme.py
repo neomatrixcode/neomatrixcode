@@ -47,6 +47,16 @@ def fetch_videos_entries():
         for entry in entries
     ]
 
+def fetch_audios_entries():
+    entries = feedparser.parse("https://anchor.fm/s/1acd0770/podcast/rss")["entries"]
+    return [
+        {
+            "title": entry["title"].replace(" ", "%20"),
+            "url": entry["link"],
+            "published": str(feedparser.parse("https://anchor.fm/s/1acd0770/podcast/rss")["entries"][0]["published_parsed"].tm_year) +"-"+str(feedparser.parse("https://anchor.fm/s/1acd0770/podcast/rss")["entries"][0]["published_parsed"].tm_mon)+"-"+str(feedparser.parse("https://anchor.fm/s/1acd0770/podcast/rss")["entries"][0]["published_parsed"].tm_mday),
+        }
+        for entry in entries
+    ]
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -67,5 +77,14 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "youtube", videos_md)
+
+    readme.open("w").write(rewritten)
+
+    audios = fetch_audios_entries()[:4]
+    audios_md = "\n\n".join(
+        ["<a href=\"{url}\"><img align=\"left\" src=\"https://github-readme-items.herokuapp.com/anchor-item?date={published}&title={title}\" /></a>".format(**entry) for entry in audios]
+    )
+    readme_contents = readme.open().read()
+    rewritten = replace_chunk(readme_contents, "podcast", audios_md)
 
     readme.open("w").write(rewritten)
