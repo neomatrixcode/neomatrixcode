@@ -49,7 +49,7 @@
 ### [<i class="fab fa-twitch"></i>  Twitch](https://www.twitch.tv/neomatr1x_)
 <!-- twitch starts -->
 <a href="https://www.twitch.tv/neomatr1x_" >
-<img align="left" src="https://github-readme-items.herokuapp.com/twitch-item?live=true&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20%E2%80%A6" />
+<img align="left" src="https://github-readme-items.herokuapp.com/twitch-item?live=true&title=stream" />
 </a>
 <!-- https://zapier.com/engine/rss/8438972/neomatr1x -->
 <!-- twitch ends -->
