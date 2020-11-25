@@ -20,7 +20,7 @@
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
 <!-- youtube starts -->
-<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-09-07&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-11-25&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
 <a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-09-07&title=charlando%20sobre%20compiladores!!!" /></a>
 
