@@ -36,19 +36,19 @@
 
 ### [<i class="fab fa-spotify"></i>  Podcast](https://anchor.fm/neomatrix)
 <!-- podcast starts -->
-<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-40-FINAL-C-y-Ensamblador-ee3g4d"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20y%20Ensamblador" /></a>
+<a href="https://anchor.fm/neomatrixcode/episodes/Ensamblador-X86---Parte-40-FINAL-C-y-Ensamblador-ee3g4d"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2040%20(FINAL)%20C%20y%20Ensamblador" /></a>
 
-<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-39-Bootloader-ee3ft9"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2039%20Bootloader" /></a>
+<a href="https://anchor.fm/neomatrixcode/episodes/Ensamblador-X86---Parte-39-Bootloader-ee3ft9"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2039%20Bootloader" /></a>
 
-<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-38-Debug-ee3fiu"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2038%20Debug" /></a>
+<a href="https://anchor.fm/neomatrixcode/episodes/Ensamblador-X86---Parte-38-Debug-ee3fiu"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2038%20Debug" /></a>
 
-<a href="https://anchor.fm/neomatrix/episodes/Ensamblador-X86---Parte-37-Manipulacin-de-la-pantalla-ee3fea"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2037%20Manipulación%20de%20la%20pantalla" /></a>
+<a href="https://anchor.fm/neomatrixcode/episodes/Ensamblador-X86---Parte-37-Manipulacin-de-la-pantalla-ee3fea"><img align="left" src="https://github-readme-items.herokuapp.com/anchor-item?date=2020-7-6&title=Ensamblador%20X86%20-%20Parte%2037%20Manipulación%20de%20la%20pantalla" /></a>
 <!-- podcast ends -->
 </td><td valign="top" width="34%">
 
-### [<i class="fab fa-twitch"></i>  Twitch](https://www.twitch.tv/neomatr1x_)
+### [<i class="fab fa-twitch"></i>  Twitch](https://www.twitch.tv/neomatrixcode)
 <!-- twitch starts -->
-<a href="https://www.twitch.tv/neomatr1x_" >
+<a href="https://www.twitch.tv/neomatrixcode" >
 <img align="left" src="https://github-readme-items.herokuapp.com/twitch-item?live=true&title=stream" />
 </a>
 <!-- https://zapier.com/engine/rss/8438972/neomatr1x -->
@@ -59,21 +59,21 @@
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeneomatrix&show_icons=true" alt="codeneomatrix" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=neomatrixcode&show_icons=true" alt="neomatrixcode" />
 </p>
 
 <p align="center">&nbsp;
-<a href="https://codepen.io/neomatrix-acevedo-maldonado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrix-acevedo-maldonado" height="30" width="30" /></a>
+<a href="https://codepen.io/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrix-acevedo-maldonado" height="30" width="30" /></a>
  &nbsp;
-<a href="https://www.behance.net/josuejosue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="josuejosue" height="30" width="30" /></a>
+<a href="https://www.behance.net/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="josuejosue" height="30" width="30" /></a>
  &nbsp;
-<a href="https://linkedin.com/in/acevedo-maldonado-josue" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acevedo-maldonado-josue" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/josue-acevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="acevedo-maldonado-josue" height="30" width="30" /></a>
  &nbsp;
-<a href="https://stackoverflow.com/users/6484530/neomatrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6484530/neomatrix" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/6484530/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6484530/neomatrix" height="30" width="30" /></a>
  &nbsp;
- <a href="https://twitter.com/@aneomatrix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@aneomatrix" height="30" width="30" /></a>
+ <a href="https://twitter.com/@neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@aneomatrix" height="30" width="30" /></a>
  &nbsp;
-<a href="https://instagram.com/neomatrix.acevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neomatrix.acevedo" height="30" width="30" /></a>
+<a href="https://instagram.com/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neomatrix.acevedo" height="30" width="30" /></a>
 </p>
 
  <!--< a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>-->
