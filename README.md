@@ -6,7 +6,7 @@
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
-<a href="https://medium.com/@josueacevedo/developed-a-simple-app-with-merly-jl-d187f9071324?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-11&title=Developed%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
+<a href="https://medium.com/@josueacevedo/developed-a-simple-app-with-merly-jl-d187f9071324?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-12&title=Developed%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
 
 <a href="https://medium.com/@josueacevedo/redux-f%C3%A1cil-y-sencillo-cba004f1db8e?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Redux%20fácil%20y%20sencillo.&subtitle=Haciendo%20una%20app%20con%20Redux%20en%2020%20minutos%20o%20casi …" /></a>
 
