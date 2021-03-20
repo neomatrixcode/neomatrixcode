@@ -6,13 +6,13 @@
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
-<a href="https://medium.com/@josueacevedo/developing-a-simple-app-with-merly-jl-74751ef96662?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-19&title=Developing%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
+<a href="https://josueacevedo.medium.com/developing-a-simple-app-with-merly-jl-74751ef96662?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-19&title=Developing%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
 
-<a href="https://medium.com/@josueacevedo/redux-f%C3%A1cil-y-sencillo-cba004f1db8e?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Redux%20fácil%20y%20sencillo.&subtitle=Haciendo%20una%20app%20con%20Redux%20en%2020%20minutos%20o%20casi …" /></a>
+<a href="https://josueacevedo.medium.com/redux-f%C3%A1cil-y-sencillo-cba004f1db8e?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Redux%20fácil%20y%20sencillo.&subtitle=Haciendo%20una%20app%20con%20Redux%20en%2020%20minutos%20o%20casi …" /></a>
 
-<a href="https://medium.com/@josueacevedo/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa%20diferente." /></a>
+<a href="https://josueacevedo.medium.com/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa%20diferente." /></a>
 
-<a href="https://medium.com/@josueacevedo/cors-e69dba675c25?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=CORS&subtitle=Y%20como%20sobrevivir%20a%20él …" /></a>
+<a href="https://josueacevedo.medium.com/cors-e69dba675c25?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=CORS&subtitle=Y%20como%20sobrevivir%20a%20él …" /></a>
 <!-- blog ends -->
 
 </td><td valign="top" width="33%">
