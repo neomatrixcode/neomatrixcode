@@ -20,7 +20,13 @@
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
 <!-- youtube starts -->
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-11-25&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
+<a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-09-07&title=charlando%20sobre%20compiladores!!!" /></a>
+
+<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2021-06-20&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
+
+<a href="https://www.youtube.com/watch?v=8FGoo1KXkgE"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2021-06-20&title=Ensamblador%20X86%20%20%20Parte%2039%20Bootloader" /></a>
 <!-- youtube ends -->
 
 </td>
