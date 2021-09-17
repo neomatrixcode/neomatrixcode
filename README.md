@@ -24,7 +24,7 @@
 
 <a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2020-09-07&title=charlando%20sobre%20compiladores!!!" /></a>
 
-<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2021-06-20&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
+<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2021-09-15&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
 
 <a href="https://www.youtube.com/watch?v=8FGoo1KXkgE"><img align="left" src="https://github-readme-items.herokuapp.com/youtube-item?date=2021-06-20&title=Ensamblador%20X86%20%20%20Parte%2039%20Bootloader" /></a>
 <!-- youtube ends -->
