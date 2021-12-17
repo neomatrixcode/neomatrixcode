@@ -6,13 +6,13 @@
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
+<a href="https://josueacevedo.medium.com/webassembly-con-rust-y-reactjs-23a8c0e9752b?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-12-16&title=WebAssembly%20con%20Rust%20y%20ReactJs&subtitle=Primeros%20pasos." /></a>
+
 <a href="https://josueacevedo.medium.com/nvidia-cuda-en-wsl2-docker-windows-a67741673b77?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-12-11&title=NVIDIA%20CUDA%20en%20WSL2%20+%20Docker%20Windows&subtitle=Sin%20morir%20en%20el%20intento …%20o casi." /></a>
 
 <a href="https://josueacevedo.medium.com/developing-a-simple-app-with-merly-jl-74751ef96662?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-19&title=Developing%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
 
 <a href="https://josueacevedo.medium.com/redux-f%C3%A1cil-y-sencillo-cba004f1db8e?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Redux%20fácil%20y%20sencillo.&subtitle=Haciendo%20una%20app%20con%20Redux%20en%2020%20minutos%20o%20casi …" /></a>
-
-<a href="https://josueacevedo.medium.com/multi-selector-casero-en-react-js-66d54e43936f?source=rss-a0e293e04c4b------2"><img align="left" src="https://github-readme-items.herokuapp.com/medium-item?date=2021-02-07&title=Multi%20selector%20casero%20en%20React%20js.&subtitle=Piensa%20diferente." /></a>
 <!-- blog ends -->
 
 </td><td valign="top" width="33%">
