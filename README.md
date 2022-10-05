@@ -58,12 +58,14 @@
 
 </table>
 
-<p align="center">
-<a href="https://www.codementor.io/@neomatrixcode?refer=badge"><img src="https://www.codementor.io/m-badges/neomatrixcode/find-me-on-cm-g.svg" alt="Codementor badge"></a>
-</p>
+[![@neomatrixcode's Holopin board](https://holopin.io/api/user/board?user=neomatrixcode)](https://holopin.io/@neomatrixcode)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=neomatrixcode&show_icons=true" alt="neomatrixcode" />
+</p>
+
+<p align="center">
+<a href="https://www.codementor.io/@neomatrixcode?refer=badge"><img src="https://www.codementor.io/m-badges/neomatrixcode/find-me-on-cm-g.svg" alt="Codementor badge"></a>
 </p>
 
 <p align="center">&nbsp;
