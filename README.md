@@ -71,7 +71,8 @@
 <a href="https://www.codementor.io/@neomatrixcode?refer=badge"><img src="https://www.codementor.io/m-badges/neomatrixcode/find-me-on-cm-g.svg" alt="Codementor badge"></a>
 </p>
 
-<div  style="background-color:red;">
+<div align="center">
+<img  src="neomatrix.svg" width="200" align="center" />
 <p align="center">&nbsp;
 https://linktr.ee/neomatrix
 </p>
