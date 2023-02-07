@@ -73,19 +73,10 @@
 
 <div  style="background-color:red;">
 <p align="center">&nbsp;
-<a href="https://codepen.io/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neomatrixcode" height="30" width="30" /></a>
- &nbsp;
-<a href="https://www.behance.net/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="neomatrixcode" height="30" width="30" /></a>
- &nbsp;
-<a href="https://linkedin.com/in/josue-acevedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josue-acevedo" height="30" width="30" /></a>
- &nbsp;
-<a href="https://stackoverflow.com/users/6484530/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6484530/neomatrixcode" height="30" width="30" /></a>
- &nbsp;
- <a href="https://twitter.com/@neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@neomatrixcode" height="30" width="30" /></a>
- &nbsp;
-<a href="https://instagram.com/neomatrixcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neomatrixcode" height="30" width="30" /></a>
+https://linktr.ee/neomatrix
 </p>
  </div>
+
 
  <!--< a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>-->
 
