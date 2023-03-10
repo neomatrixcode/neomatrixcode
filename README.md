@@ -9,13 +9,13 @@
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
+<a href="https://josueacevedo.medium.com/c%C3%B3mo-crear-un-servicio-en-linux-con-systemd-68870de63fb3?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2023-03-03&title=Cómo%20crear%20un%20servicio%20en%20Linux%20con%20systemd&subtitle=En%20el%20desarrollo%20de%20aplicaciones%20web,%20es%20frecuente%20que%20se%20deban%20llevar%20a%20cabo%20tareas%20de%20procesamiento%20en%20un%20script%20de%20ejecución%20asincrónico,%20programar%20tareas%20para%20más%20adelante%20o%20crear%20un%20demonio%20que%20se%20conecta%20directamente%20con%20los%20clientes%20a%20través%20de%20un%20socket.%20A%20pesar%20de%20que%20existen%20herramientas%20como%20servidores%20de%20cola%20de%20tareas,%20puede%20ser%20necesario%20crear%20nuestro%20propio%20servicio%20para%20obtener%20un%20nivel%20de%20flexibilidad%20que%20no%20se%20logra%20al%20depender%20de%20las%20restricciones%20de%20software%20de%20terceros." /></a>
+
 <a href="https://josueacevedo.medium.com/mapas-con-javascript-85ffeab8a331?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2021-12-28&title=Mapas%20con%20JavaScript&subtitle=Con%20un%20proyecto%20practico." /></a>
 
 <a href="https://josueacevedo.medium.com/webassembly-con-rust-y-reactjs-23a8c0e9752b?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2021-12-16&title=WebAssembly%20con%20Rust%20y%20ReactJs&subtitle=Primeros%20pasos." /></a>
 
 <a href="https://josueacevedo.medium.com/nvidia-cuda-en-wsl2-docker-windows-a67741673b77?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2021-12-11&title=NVIDIA%20CUDA%20en%20WSL2%20+%20Docker%20Windows&subtitle=Sin%20morir%20en%20el%20intento …%20o casi." /></a>
-
-<a href="https://josueacevedo.medium.com/developing-a-simple-app-with-merly-jl-74751ef96662?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2021-02-19&title=Developing%20a%20simple%20app%20with%20Merly.jl&subtitle=In%20less%20than%2010 minutes" /></a>
 <!-- blog ends -->
 
 </td><td valign="top" width="33%">
@@ -23,11 +23,11 @@
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
 <!-- youtube starts -->
-<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-01-13&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-05-24&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
-<a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-01-13&title=charlando%20sobre%20compiladores!!!" /></a>
+<a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-06-29&title=charlando%20sobre%20compiladores!!!" /></a>
 
-<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-01-22&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
+<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-06-29&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
 
 <a href="https://www.youtube.com/watch?v=8FGoo1KXkgE"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2022-02-08&title=Ensamblador%20X86%20%20%20Parte%2039%20Bootloader" /></a>
 <!-- youtube ends -->
