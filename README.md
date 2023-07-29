@@ -25,7 +25,7 @@
 <!-- youtube starts -->
 <a href="https://www.youtube.com/watch?v=DuuV23teN-4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-06-10&title=Integrando%20chatgpt%20en%20sublime%20text3%20...%20o%20haciendo%20el%20intento" /></a>
 
-<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-06-25&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-07-22&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
 <a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-06-15&title=charlando%20sobre%20compiladores!!!" /></a>
 
