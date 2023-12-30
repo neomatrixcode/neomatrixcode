@@ -23,9 +23,9 @@
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
 <!-- youtube starts -->
-<a href="https://www.youtube.com/watch?v=DuuV23teN-4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-11-23&title=Integrando%20chatgpt%20en%20sublime%20text3%20...%20o%20haciendo%20el%20intento" /></a>
+<a href="https://www.youtube.com/watch?v=DuuV23teN-4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-12-27&title=Integrando%20chatgpt%20en%20sublime%20text3%20...%20o%20haciendo%20el%20intento" /></a>
 
-<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-11-15&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-12-28&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
 <a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-11-16&title=charlando%20sobre%20compiladores!!!" /></a>
 
