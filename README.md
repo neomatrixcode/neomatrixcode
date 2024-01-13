@@ -27,9 +27,9 @@
 
 <a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-12-28&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
-<a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-11-16&title=charlando%20sobre%20compiladores!!!" /></a>
+<a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-01-10&title=charlando%20sobre%20compiladores!!!" /></a>
 
-<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2023-11-21&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
+<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-01-07&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
 <!-- youtube ends -->
 
 </td>
