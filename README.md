@@ -25,11 +25,11 @@
 <!-- youtube starts -->
 <a href="https://www.youtube.com/watch?v=DuuV23teN-4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-08&title=Integrando%20chatgpt%20en%20sublime%20text3%20...%20o%20haciendo%20el%20intento" /></a>
 
-<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-04&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
+<a href="https://www.youtube.com/watch?v=YtoVyEWl1z4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-12&title=Charlando%20sobre%20compiladores!!!%20parte%203" /></a>
 
 <a href="https://www.youtube.com/watch?v=xQukeQ4SEC4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-07&title=charlando%20sobre%20compiladores!!!" /></a>
 
-<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-05&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
+<a href="https://www.youtube.com/watch?v=14mBJNaglrM"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2024-05-13&title=Ensamblador%20X86%20%20%20Parte%2040%20[FINAL]%20C%20y%20Ensamblador" /></a>
 <!-- youtube ends -->
 
 </td>
