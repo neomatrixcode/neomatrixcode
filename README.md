@@ -23,7 +23,7 @@
 ### [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/NEOMATRIXc0de)
 
 <!-- youtube starts -->
-<a href="https://www.youtube.com/watch?v=uDe-fNfutRA"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2025-07-31&title=¡Esta%20presentación%20NO%20salió%20según%20yo%20lo%20habia%20planeado!" /></a>
+<a href="https://www.youtube.com/watch?v=uDe-fNfutRA"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2025-10-03&title=¡Esta%20presentación%20NO%20salió%20según%20yo%20lo%20habia%20planeado!" /></a>
 
 <a href="https://www.youtube.com/watch?v=DuuV23teN-4"><img align="left" src="http://neomatrix.pythonanywhere.com/youtube-item?date=2025-06-06&title=Integrando%20chatgpt%20en%20sublime%20text3%20...%20o%20haciendo%20el%20intento" /></a>
 
