@@ -9,13 +9,7 @@
 ### [<i class="fab fa-medium"></i> Medium](https://medium.com/@josueacevedo)
 
 <!-- blog starts -->
-<a href="https://josueacevedo.medium.com/nura-os-f3766017db8c?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2025-08-02&title=Nura-OS&subtitle=La%20Alternativa%20Moderna%20para%20Usuarios%20que%20Buscan%20Flexibilidad,%20Rendimiento%20y Control" /></a>
 
-<a href="https://josueacevedo.medium.com/dominando-la-evaluaci%C3%B3n-de-ia-por-qu%C3%A9-los-llm-as-a-judge-son-el-futuro-16398df69469?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2025-07-29&title=Dominando%20la%20evaluación%20de%20IA:%20por%20qué%20los%20LLM-as-a-Judge%20son%20el%20futuro&subtitle=A%20medida%20que%20los%20Modelos%20de%20Lenguaje%20Grandes%20(LLM)%20se%20vuelven%20omnipresentes,%20la%20necesidad%20de%20una%20evaluación%20sólida%20y%20escalable%20se%20ha%20vuelto%20urgente.%20Los%20métodos%20tradicionales,%20como%20las%20métricas%20de%20precisión%20o%20las%20revisiones%20humanas,%20no%20capturan%20los%20matices%20de%20las%20respuestas%20de%20los%20LLM.%20Las%20revisiones%20humanas,%20por%20ejemplo,%20son%20costosas,%20consumen%20mucho%20tiempo%20y%20pueden%20estar%20sujetas%20a%20sesgos%20como%20la%20subjetividad." /></a>
-
-<a href="https://josueacevedo.medium.com/los-principales-sistemas-de-mainframe-3b959411ae1e?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2025-07-25&title=Los%20Principales%20Sistemas%20de%20Mainframe&subtitle=¿Por%20qué%20IBM%20sigue%20siendo%20el Líder?" /></a>
-
-<a href="https://josueacevedo.medium.com/el-motor-gpu-polars-ya-en-beta-abierta-qu%C3%A9-cambia-y-por-qu%C3%A9-importa-346b3b9c294b?source=rss-a0e293e04c4b------2"><img align="left" src="http://neomatrix.pythonanywhere.com/medium-item?date=2025-07-24&title=El%20motor%20GPU%20Polars%20ya%20en%20beta%20abierta:%20¿qué%20cambia%20y%20por%20qué%20importa?&subtitle=Polars%20es%20una%20biblioteca%20de%20DataFrame%20para%20Python%20(también%20con%20interfaces%20en%20Rust,%20R%20y%20JavaScript),%20diseñada%20desde%20cero%20para%20ofrecer%20un%20rendimiento%20brutal.%20En%20lugar%20de%20pandas,%20que%20es%20single‑thread%20y%20no%20escala%20bien,%20Polars%20aprovecha:" /></a>
 <!-- blog ends -->
 
 </td><td valign="top" width="33%">
